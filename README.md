@@ -1,5 +1,5 @@
 # covid_app
-This is the flutter app which helps in predicting COVID based on lungs X-Ray we upload in the app
+This is the flutter app which helps in predicting COVID based on lungs X-Ray we upload in the app. I used firebase authentication for authenticating users. I used google cloud for storing users result and lungs xray.
 
 ## Screen Shots
 
